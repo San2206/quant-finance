@@ -1,2 +1,2 @@
 # my_first
-just a few trials
+a chapter by chapter code followed by project at the end..
